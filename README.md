@@ -48,3 +48,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 3. `npm run install:eslint`
 4. Create/Complete .eslintrc.json
+
+
+## Jest + React
+
+https://nextjs.org/docs/testing#jest-and-react-testing-library
