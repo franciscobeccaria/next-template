@@ -47,3 +47,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 3. `npm run install:eslint`
 4. Create/Complete .eslintrc.json
+
+## TailwindCSS
+
+1. `npm install -D tailwindcss@latest postcss@latest autoprefixer@latest`
+2. tailwind.config.js
+3. postcss.config.js
+4. styles/globals.css
+5. Use TailwindCSS!
+
+https://tailwindcss.com/docs/guides/nextjs
