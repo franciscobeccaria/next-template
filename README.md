@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 1.  Install ESLint and Prettier VSC Extensions.
 2.  Edit settings.json
-    
+
     2.1. Ctrl + Shift + P
 
 ```
@@ -48,3 +48,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 3. `npm run install:eslint`
 4. Create/Complete .eslintrc.json
+
+## Sentry
+
+1. Create account and project.
+2. `npm install --save @sentry/nextjs`
+3. `npx @sentry/wizard -i nextjs`
+4. Merge next.config.wizardcopy.js and next.config.js
+
+https://sentry.io/francisco-beccaria/nextjs-test-12/getting-started/javascript-nextjs/
