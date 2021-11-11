@@ -47,3 +47,19 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 3. `npm run install:eslint`
 4. Create/Complete .eslintrc.json
+
+## cz cli
+
+1. `npm install -g commitizen`
+2. Add config to package.json
+
+```
+"config": {
+    "commitizen": {
+        "path": "./node_modules/cz-conventional-changelog"
+    }
+}
+```
+
+3. `npm i --save-dev cz-conventional-changelog`
+4. `git cz` to commit
