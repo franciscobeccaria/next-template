@@ -37,6 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 1.  Install ESLint and Prettier VSC Extensions.
 2.  Edit settings.json
+    
     2.1. Ctrl + Shift + P
 
 ```
